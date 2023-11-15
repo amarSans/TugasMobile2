@@ -1,1 +1,1 @@
-#jangan lupa sholat
+# jangan lupa sholat dan difollow
