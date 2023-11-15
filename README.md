@@ -1,3 +1,4 @@
 # jangan lupa:
 + ganti datanya
-+ silahkan ganti tema kalau mau sama layoutnya
++ ganti tema sesuai selera
++ ganti layout nya sesuai keinginan
